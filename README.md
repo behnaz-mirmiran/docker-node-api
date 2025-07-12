@@ -1,5 +1,3 @@
-# 🐳 Docker Node API
-
 # 🐳 RESTful Node.js API with Docker
 
 این پروژه یک REST API ساده است که با Node.js و Express پیاده‌سازی شده و با Docker کانتینریزه شده است.
